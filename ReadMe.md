@@ -1,3 +1,5 @@
+This repo is to deauthenticate clients from WiFi networks and capture the wpa2 handshake and will then use John-the-ripper and Hashcat to crack the wpa2.cap file, you may also want to download Wireshark.
+
 mkdir deauthNcap
 cd deauthNcap
 
