@@ -1,0 +1,10 @@
+airmon-ng
+airodump-ng
+aireplay-ng
+timeout
+awk
+iwconfig
+gnome-terminal
+john
+hashcat
+cap2hccapx
